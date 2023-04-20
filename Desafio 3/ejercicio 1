@@ -1,0 +1,8 @@
+EJercicio 1
+
+Para realizar esto se puede usar el comando "git stash"
+este comando hace un guardado rapido sin hacer commmit
+,luego para cambiar de rama se usa el comando "git switch (rama)"
+o git checkout (rama). Para eliminar un archivo se usa el comando "git rm (nombre-archivo)",
+vuelves a la rama donde estabas. Para recuperar el trabajo guardado donde estabas se usa el comando "git stash list" y "git stash apply
+(nombre-stash)". 

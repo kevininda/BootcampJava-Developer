@@ -1,0 +1,6 @@
+Ejercicio 2
+
+Solucion: Verificar la rama sobre la que estoy parado con el comando "git branch -v", 
+luego cambiarse a rama donde se quieren fusionar los cambios con "git checkout master", lo siguiente es hacer ejecutar el comando "git pull"
+para actualizar la rama y evitar posibles conflictos. 
+Estando en la rama master usar comando "git merge front-react", este comando fusionara la rama front-react a la master. 
